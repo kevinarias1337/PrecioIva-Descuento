@@ -1,0 +1,10 @@
+D:\precioiva\precioiva\bin\Debug\precioiva.exe.config
+D:\precioiva\precioiva\bin\Debug\precioiva.exe
+D:\precioiva\precioiva\bin\Debug\precioiva.pdb
+D:\precioiva\precioiva\obj\Debug\precioiva.csprojAssemblyReference.cache
+D:\precioiva\precioiva\obj\Debug\precioiva.Form1.resources
+D:\precioiva\precioiva\obj\Debug\precioiva.Properties.Resources.resources
+D:\precioiva\precioiva\obj\Debug\precioiva.csproj.GenerateResource.cache
+D:\precioiva\precioiva\obj\Debug\precioiva.csproj.CoreCompileInputs.cache
+D:\precioiva\precioiva\obj\Debug\precioiva.exe
+D:\precioiva\precioiva\obj\Debug\precioiva.pdb
